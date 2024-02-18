@@ -33,7 +33,7 @@ require (
 	github.com/libp2p/go-libp2p-kad-dht v0.15.0
 	github.com/libp2p/go-libp2p-kbucket v0.4.7
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/multiformats/go-multiaddr v0.5.0
+	github.com/multiformats/go-multiaddr v0.12.2
 	github.com/pelletier/go-toml v1.9.3
 	github.com/pkg/errors v0.9.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
@@ -42,8 +42,8 @@ require (
 	github.com/urfave/cli v1.22.9
 	github.com/whyrusleeping/timecache v0.0.0-20160911033111-cfcb2f1abfee
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
-	golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2
+	golang.org/x/crypto v0.18.0
+	golang.org/x/net v0.10.0
 	gopkg.in/go-playground/validator.v8 v8.18.2
 // test point 3 for custom profiler
 )
