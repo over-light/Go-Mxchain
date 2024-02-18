@@ -42,8 +42,8 @@ require (
 	github.com/urfave/cli v1.22.9
 	github.com/whyrusleeping/timecache v0.0.0-20160911033111-cfcb2f1abfee
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
-	golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2
+	golang.org/x/crypto v0.19.0
+	golang.org/x/net v0.21.0
 	gopkg.in/go-playground/validator.v8 v8.18.2
 // test point 3 for custom profiler
 )
